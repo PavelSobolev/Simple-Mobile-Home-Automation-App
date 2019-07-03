@@ -7,3 +7,7 @@ This mobile app was created just for fun, my personal purposes and experience in
 2. ZWave Domoticz Web-Server and its REST API
 3. NodeJS/Java Script (script for catching notifications from remote reactive NoSQL database)
 4. Google Firebase API for Android
+
+### User interface examples
+
+![UI](https://github.com/PavelSobolev/Simple-Mobile-Home-Automation-App/blob/master/uiimg/001.jpg) ![UI](https://github.com/PavelSobolev/Simple-Mobile-Home-Automation-App/blob/master/uiimg/002.jpg)
